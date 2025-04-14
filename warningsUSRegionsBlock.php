@@ -22,7 +22,7 @@
 	# 			- bug fixes
 	# 		v7.0 - Mar 30, 2018
 	# 			- optimization
-			v7.01 Fixed issue with it not updating
+	#		v7.01 Fixed issue with it not updating
 
 	if(file_exists("settings.php")){
 		include("settings.php");
